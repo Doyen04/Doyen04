@@ -1,4 +1,4 @@
-![background_image](https://github.com/user-attachments/assets/090dd05a-587f-4bfb-a42d-470874c5d0d1)
+![background_image]<div style='background-image: url(https://github.com/user-attachments/assets/090dd05a-587f-4bfb-a42d-470874c5d0d1)'></div>
 
 <h3 align="left">Languages and Tools:</h3>
 
