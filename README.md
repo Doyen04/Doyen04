@@ -1,4 +1,4 @@
-<img src="https://github.com/user-attachments/assets/090dd05a-587f-4bfb-a42d-470874c5d0d1" height="400px" alt="NodeJS">
+<img src="https://github.com/user-attachments/assets/090dd05a-587f-4bfb-a42d-470874c5d0d1" height="400px" width="100%" alt="NodeJS">
 
 
 # Hi, I'm OLUWASOLA! 👋
