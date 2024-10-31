@@ -12,7 +12,7 @@ I am a passionate M.Tech Software student at Mountain Top University, driven by 
 - 🔭 I'm currently pursuing my Bsc's in Software Engineering at MountainTop University.
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm,python,vite,react)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
@@ -25,7 +25,7 @@ I am a passionate M.Tech Software student at Mountain Top University, driven by 
 
 ## 📬 Get in Touch
 
-- Connect with me on [Twitter](https://twitter.com/introvertedbot)
+- Connect with me on [Twitter](https://twitter.com/Dee_Doyen)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
