@@ -26,6 +26,8 @@ I am a passionate M.Tech Software student at Mountain Top University, driven by 
 ## 📬 Get in Touch
 
 - Connect with me on [Twitter](https://twitter.com/Dee_Doyen)
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyen04&layout=compact)
 
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
