@@ -27,8 +27,6 @@ I am a passionate M.Tech Software student at Mountain Top University, driven by 
 
 - Connect with me on [Twitter](https://twitter.com/Dee_Doyen)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyen04&layout=compact)
-
 Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
 
 
@@ -52,5 +50,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Doyen04&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyen04)](https://github.com/anuraghazra/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyen04&layout=compact)
 
 ![](https://komarev.com/ghpvc/?username=Doyen04&color=green)
