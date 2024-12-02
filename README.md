@@ -75,13 +75,10 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Doyen04&theme=dark&border_radius=5)](https://git.io/streak-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyen04)](https://github.com/anuraghazra/github-readme-stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyen04&layout=compact)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Doyen04)](https://github.com/anuraghazra/github-readme-stats)         ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Doyen04&layout=compact) 
 
 ![](https://komarev.com/ghpvc/?username=Doyen04&color=green)
-
-
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
